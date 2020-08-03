@@ -7,8 +7,14 @@ HTML5
 CSS
 Bootstrap
 JavaScript
-Postgresql
+Postgresql 12
 fast 2 sms API
 Hit Counter API
 
-Password:sih
+To extract files from zip file - Password:sih
+
+To run the database migrations are required.
+Use the command python manage.py migrate
+
+Database Name- Sriram
+Password- 1234
